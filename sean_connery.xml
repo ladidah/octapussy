@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<root>
+<?xml version="1.0" encoding="UTF-8"?>
+<programme guide>
+<channel name=“Sean Connery”>
+<movie title=“en”>Dr. No</title>
+<start time>9AM</start time>
+<end time>11AM</end time>
+</channel>
+
+<channel name=“Sean Connery”>
+<movie title=“en”>You Only Live Twice</title>
+<start time>11AM</start time>
+<end time>1PM</end time>
+</channel>
+
+<channel name=“Sean Connery”>
+<movie title=“en”>From Russia with Love</title>
+<start time>1PM</start time>
+<end time>3PM</end time>
+</channel>
+
+<channel name=“Sean Connery”>
+<movie title=“en”>Thunderball</title>
+<start time>3PM</start time>
+<end time>5PM</end time>
+</channel>
+
+</programme guide>
+</root>
